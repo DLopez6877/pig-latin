@@ -25,7 +25,6 @@ _{Are there issues that have not yet been resolved that you want to let users kn
 ## Specs
 
 * do nothing to non-alphabetical characters -- 8 -- 8
-* do nothing to words that start with non-alphabetical characters -- 8ball -- 8ball
 * add "ay" to a single letter vowel -- i, a -- iay, aay
 * add "way" two or more letter words that begin with a vowel -- apple -- appleway
 * words starting with one consonant before a vowel move the consonant to the end and add "ay" -- bob -- obbay
@@ -33,6 +32,7 @@ _{Are there issues that have not yet been resolved that you want to let users kn
 * if the first consonants include "qu" move the "u" along with the "q". -- squeel, queen -- eelsquay, eenquay
 * words beginning with "y", treat "y" as a consonant.
 * for sentences break down each individual word
+* do nothing to words that start with non-alphabetical characters -- 8ball -- 8ball
 
 ## Technologies Used
 
